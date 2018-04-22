@@ -1,7 +1,7 @@
 {
   "name": "dboats-api",
   "version": "1.0.0",
-  "description": "Easily post your Discord Bot's guild count to discordboats.club",
+  "description": "Easily interact with discordboats.club's API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
