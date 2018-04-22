@@ -1,0 +1,27 @@
+{
+  "name": "dboats-api",
+  "version": "1.0.0",
+  "description": "Easily post your Discord Bot's guild count to discordboats.club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RONTheCookie/dboats-api.git"
+  },
+  "keywords": [
+    "dboats",
+    "api-client",
+    "api"
+  ],
+  "author": "RONTheCookie <me@ronthecookie.me>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RONTheCookie/dboats-api/issues"
+  },
+  "homepage": "https://github.com/RONTheCookie/dboats-api#readme",
+  "dependencies": {
+    "snekfetch": "^3.6.4"
+  }
+}
