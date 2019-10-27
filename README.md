@@ -1,5 +1,6 @@
 # Note:
-This api is for the v1 version of our site. This will be updated to v2 once the v2 version comes out.
+~~This api is for the v1 version of our site. This will be updated to v2 once the v2 version comes out.~~
+This node.js package is for a website that is no longer in service.
 
 # dboats-api
 Easily interact with discordboats.club's API.
